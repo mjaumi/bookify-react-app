@@ -1,0 +1,109 @@
+[
+    {
+        "id": "1001",
+        "img": "https://m.media-amazon.com/images/I/615LfOgtqaL.jpg",
+        "name": "Best Business Practices for Photographers",
+        "category": "Arts & Photography",
+        "writer": "John Harrington",
+        "price": 28.48
+    },
+    
+    {
+        "id": "1002",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71PFTKdNqIL.jpg",
+        "name": "Photography: The Definitive Visual History",
+        "category": "Arts & Photography",
+        "writer": "Tom Ang",
+        "price": 40.87
+    },
+
+    {
+        "id": "1003",
+        "img": "https://m.media-amazon.com/images/I/51+SWKopXhL.jpg",
+        "name": "Destinations of a Lifetime",
+        "category": "Arts & Photography",
+        "writer": "National Geographic",
+        "price": 40.87
+    },
+
+    {
+        "id": "1004",
+        "img": "https://cdn.waterstones.com/bookjackets/large/9780/2414/9780241431177.jpg",
+        "name": "Together: Memorable Meals Made Easy",
+        "category": "Food & Drink",
+        "writer": "Jamie Oliver",
+        "price": 19.99
+    },
+
+    {
+        "id": "1005",
+        "img": "https://cdn.waterstones.com/bookjackets/large/9781/5290/9781529016314.jpg",
+        "name": "Joe's Family Food",
+        "category": "Food & Drink",
+        "writer": "Joe Wicks",
+        "price": 13.99
+    },
+
+    {
+        "id": "1006",
+        "img": "https://cdn.waterstones.com/bookjackets/large/9781/7859/9781785947087.jpg",
+        "name": "Rick Stein at Home",
+        "category": "Food & Drink",
+        "writer": "Rick Stein",
+        "price": 21.99
+    },
+   
+    {
+        "id": "1007",
+        "img": "https://images-us.bookshop.org/ingram/9780515150643.jpg",
+        "name": "Vision in White",
+        "category": "Romance",
+        "writer": "Nora Roberts",
+        "price": 15.64
+    },
+
+    {
+        "id": "1008",
+        "img": "https://images-us.bookshop.org/ingram/9781984821430.jpg",
+        "name": "Nine Lives",
+        "category": "Romance",
+        "writer": "Danielle Steel",
+        "price": 27.59
+    },
+    
+    {
+        "id": "1009",
+        "img": "https://images-us.bookshop.org/ingram/9780778316886.jpg",
+        "name": "16 Lighthouse Road",
+        "category": "Romance",
+        "writer": "Debbie Macomber",
+        "price": 7.35
+    },
+
+    {
+        "id": "1010",
+        "img": "https://m.media-amazon.com/images/I/511wQDs0J7L.jpg",
+        "name": "A Beautiful Mind",
+        "category": "Biography",
+        "writer": "Sylvia Nasar",
+        "price": 29.99
+    },
+
+    {
+        "id": "1011",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71AybBHkHAL.jpg",
+        "name": "Alan Turing: The Enigma",
+        "category": "Biography",
+        "writer": "Andrew Hodge",
+        "price": 34.47
+    },
+
+    {
+        "id": "1012",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81TL+KeC-SL.jpg",
+        "name": "Enrique's Journey",
+        "category": "Biography",
+        "writer": "Sonia Nazario",
+        "price": 23.95
+    }
+]
