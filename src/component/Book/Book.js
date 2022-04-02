@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Book = (props) => {
-    const { img, category, name, writer, price } = props.book;
+    const { id, img, category, name, writer, price } = props.book;
 
     return (
         <div className='border-2 border-bookify-light-gray rounded-3xl grid grid-rows-book-card'>
@@ -15,7 +16,9 @@ const Book = (props) => {
                 <h3 className='text-lg font-medium'>${price}</h3>
             </div>
             <div className='px-8 my-5'>
-                <button className='bg-black w-full text-white py-3 font-medium rounded-xl hover:opacity-50 duration-300'>View Details</button>
+                <Link to={`/bookDetails${id}`}>
+                    <button className='bg-black w-full text-white py-3 font-medium rounded-xl hover:opacity-50 duration-300'>View Details</button>
+                </Link>
             </div>
         </div>
     );

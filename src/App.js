@@ -1,5 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
+import BookDetails from './component/BookDetails/BookDetails';
 import Books from './component/Books/Books';
 import Categories from './component/Categories/Categories';
 import Header from './component/Header/Header';
@@ -15,6 +16,7 @@ function App() {
         <Route path='/home' element={<Home />}></Route>
         <Route path='/categories' element={<Categories />}></Route>
         <Route path='/books' element={<Books />}></Route>
+        <Route path='bookDetails:bookId' element={<BookDetails />}></Route>
         <Route path='*' element={<NotFound />}></Route>
       </Routes>
     </div>
