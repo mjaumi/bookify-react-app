@@ -5,6 +5,7 @@
         "name": "Best Business Practices for Photographers",
         "category": "Arts & Photography",
         "writer": "John Harrington",
+        "popularity": 5,
         "price": 28.48
     },
     
@@ -14,6 +15,7 @@
         "name": "Photography: The Definitive Visual History",
         "category": "Arts & Photography",
         "writer": "Tom Ang",
+        "popularity": 4,
         "price": 40.87
     },
 
@@ -23,6 +25,7 @@
         "name": "Destinations of a Lifetime",
         "category": "Arts & Photography",
         "writer": "National Geographic",
+        "popularity": 3,
         "price": 40.87
     },
 
@@ -32,6 +35,7 @@
         "name": "Together: Memorable Meals Made Easy",
         "category": "Food & Drink",
         "writer": "Jamie Oliver",
+        "popularity": 5,
         "price": 19.99
     },
 
@@ -41,6 +45,7 @@
         "name": "Joe's Family Food",
         "category": "Food & Drink",
         "writer": "Joe Wicks",
+        "popularity": 4,
         "price": 13.99
     },
 
@@ -50,6 +55,7 @@
         "name": "Rick Stein at Home",
         "category": "Food & Drink",
         "writer": "Rick Stein",
+        "popularity": 3,
         "price": 21.99
     },
    
@@ -59,6 +65,7 @@
         "name": "Vision in White",
         "category": "Romance",
         "writer": "Nora Roberts",
+        "popularity": 5,
         "price": 15.64
     },
 
@@ -68,6 +75,7 @@
         "name": "Nine Lives",
         "category": "Romance",
         "writer": "Danielle Steel",
+        "popularity": 4,
         "price": 27.59
     },
     
@@ -77,6 +85,7 @@
         "name": "16 Lighthouse Road",
         "category": "Romance",
         "writer": "Debbie Macomber",
+        "popularity": 3,
         "price": 7.35
     },
 
@@ -86,6 +95,7 @@
         "name": "A Beautiful Mind",
         "category": "Biography",
         "writer": "Sylvia Nasar",
+        "popularity": 5,
         "price": 29.99
     },
 
@@ -95,6 +105,7 @@
         "name": "Alan Turing: The Enigma",
         "category": "Biography",
         "writer": "Andrew Hodge",
+        "popularity": 3,
         "price": 34.47
     },
 
@@ -104,6 +115,7 @@
         "name": "Enrique's Journey",
         "category": "Biography",
         "writer": "Sonia Nazario",
+        "popularity": 4,
         "price": 23.95
     }
 ]

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <header className='bg-bookify-base text-white fixed w-full'>
+        <header className='bg-bookify-base text-white fixed w-full z-[999]'>
             <div className='flex justify-between w-4/5 mx-auto py-4'>
                 <div>
                     <Link to='/'>

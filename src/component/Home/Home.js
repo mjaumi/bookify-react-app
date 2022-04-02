@@ -1,6 +1,11 @@
 import React from 'react';
+import useBooks from '../../hooks/useBooks';
+import Book from '../Book/Book';
 
 const Home = () => {
+    const [books] = useBooks();
+    const featuredBooks = books.filter(book => book.popularity === 5);
+
     return (
         <section>
             {/* hero section */}
@@ -12,8 +17,16 @@ const Home = () => {
                 </h2>
             </div>
             {/* featured books section */}
-            <div className='mt-20 w-4/5 mx-auto'>
-                <h2 className='text-left text-5xl font-medium text-bookify-light mb-10'>Featured books</h2>
+            <div className='my-20 w-4/5 mx-auto'>
+                <h2 className='text-left text-5xl font-medium text-bookify-light mb-10'>Best Selling Books</h2>
+                <div className='grid grid-cols-4 gap-10'>
+                    {
+                        featuredBooks.map(book => <Book
+                            key={book.id}
+                            book={book}
+                        ></Book>)
+                    }
+                </div>
             </div>
         </section>
     );
