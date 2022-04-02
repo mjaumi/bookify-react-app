@@ -15,7 +15,7 @@ const Book = (props) => {
                 <h3 className='text-lg font-medium'>${price}</h3>
             </div>
             <div className='px-8 my-5'>
-                <button className='bg-black w-full text-white py-3 font-medium rounded-xl hover:opacity-50 duration-300'>Add to Cart</button>
+                <button className='bg-black w-full text-white py-3 font-medium rounded-xl hover:opacity-50 duration-300'>View Details</button>
             </div>
         </div>
     );

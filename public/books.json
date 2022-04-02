@@ -5,6 +5,7 @@
         "name": "Best Business Practices for Photographers",
         "category": "Arts & Photography",
         "writer": "John Harrington",
+        "page": 249,
         "popularity": 5,
         "price": 28.48
     },
@@ -15,6 +16,7 @@
         "name": "Photography: The Definitive Visual History",
         "category": "Arts & Photography",
         "writer": "Tom Ang",
+        "page": 385,
         "popularity": 4,
         "price": 40.87
     },
@@ -25,6 +27,7 @@
         "name": "Destinations of a Lifetime",
         "category": "Arts & Photography",
         "writer": "National Geographic",
+        "page": 164,
         "popularity": 3,
         "price": 40.87
     },
@@ -35,6 +38,7 @@
         "name": "Together: Memorable Meals Made Easy",
         "category": "Food & Drink",
         "writer": "Jamie Oliver",
+        "page": 277,
         "popularity": 5,
         "price": 19.99
     },
@@ -45,6 +49,7 @@
         "name": "Joe's Family Food",
         "category": "Food & Drink",
         "writer": "Joe Wicks",
+        "page": 187,
         "popularity": 4,
         "price": 13.99
     },
@@ -55,6 +60,7 @@
         "name": "Rick Stein at Home",
         "category": "Food & Drink",
         "writer": "Rick Stein",
+        "page": 211,
         "popularity": 3,
         "price": 21.99
     },
@@ -65,6 +71,7 @@
         "name": "Vision in White",
         "category": "Romance",
         "writer": "Nora Roberts",
+        "page": 543,
         "popularity": 5,
         "price": 15.64
     },
@@ -75,6 +82,7 @@
         "name": "Nine Lives",
         "category": "Romance",
         "writer": "Danielle Steel",
+        "page": 691,
         "popularity": 4,
         "price": 27.59
     },
@@ -85,6 +93,7 @@
         "name": "16 Lighthouse Road",
         "category": "Romance",
         "writer": "Debbie Macomber",
+        "page": 156,
         "popularity": 3,
         "price": 7.35
     },
@@ -95,6 +104,7 @@
         "name": "A Beautiful Mind",
         "category": "Biography",
         "writer": "Sylvia Nasar",
+        "page": 781,
         "popularity": 5,
         "price": 29.99
     },
@@ -105,6 +115,7 @@
         "name": "Alan Turing: The Enigma",
         "category": "Biography",
         "writer": "Andrew Hodge",
+        "page": 869,
         "popularity": 3,
         "price": 34.47
     },
@@ -115,6 +126,7 @@
         "name": "Enrique's Journey",
         "category": "Biography",
         "writer": "Sonia Nazario",
+        "page": 547,
         "popularity": 4,
         "price": 23.95
     }
